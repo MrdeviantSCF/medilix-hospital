@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="medGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#0A2540" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#medGrad)" />
+  <rect x="20" y="10" width="8" height="28" rx="4" fill="#FFFFFF" />
+  <rect x="10" y="20" width="28" height="8" rx="4" fill="#FFFFFF" />
+  <circle cx="24" cy="24" r="3" fill="#0EA5E9" />
+</svg>
